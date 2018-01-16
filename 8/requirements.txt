@@ -1,1 +1,1 @@
-sentry_mattermost
+https://github.com/Kiina/sentry-mattermost/archive/master.zip
